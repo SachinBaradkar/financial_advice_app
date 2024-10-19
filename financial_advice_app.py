@@ -183,5 +183,5 @@ def main():
         st.subheader("🎯 Financial Goals")
         financial_goals()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
